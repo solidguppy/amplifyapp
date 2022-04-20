@@ -18,6 +18,7 @@ function App() {
             <header className="App-header">
               <img src={logo} className="App-logo" alt="logo" />
               <h1>Hello from V2</h1>
+              <p>This is my first serverless application through AWS</p>
             </header>
             <button onClick={signOut}>Sign out</button>
           </div>
